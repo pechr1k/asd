@@ -1,0 +1,6 @@
+IP CALC: https://jodies.de/
+SUBNETS: https://www.freecodecamp.org/news/subnet-cheat-sheet-24-subnet-mask-30-26-27-29-and-other-ip-address-cidr-network-references/
+
+
+PC wifi module: WPC300N
+Switch Wan modul: HWIC-2T
